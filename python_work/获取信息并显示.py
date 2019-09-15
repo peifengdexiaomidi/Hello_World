@@ -1,0 +1,5 @@
+name=input("请输入你的名字 ")
+qq=input("请输入你的qq号 ")
+phone_number=input("请输入你的手机号 ")
+print("姓名:"+name+"\nQQ:"+qq+"\n手机号:"+phone_number)
+print("学校地址:江苏省徐州市铜山区中国矿业大学南湖校区物流园")
